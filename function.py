@@ -10,4 +10,4 @@ if __name__ == '__main__':
     elif inputvar==2:
         function2()
     else:
-        print("Wrong choice..!")
+        print("Wrong choice..s!")
